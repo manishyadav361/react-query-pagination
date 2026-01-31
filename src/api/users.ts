@@ -19,7 +19,7 @@ export const fetchUsers = async (page: number = 1, limit: number = 10, signal?: 
     return {
         data: data.users,
         total: data.total,
-        total_pages: Math.ceil(data.total / limit),
+        total_pages: limit > 0 ? Math.ceil(data.total / limit) : 0,
         page
     };
 };

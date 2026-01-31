@@ -8,8 +8,8 @@ A highly performant, scalable Data Grid implementation using **React Query** and
 -   **Prefetching**: Automatically preloads the next page in the background for instant navigation.
 -   **Skeleton Loading**: Polished loading state with shimmering rows.
 -   **Robust Error Handling**: Graceful error UI with Retry mechanism.
--   **Dynamic Limits**: User selectable page sizing (10/20/50 items).
--   **Mobile Reponsive**: Adaptive layout that works beautifully on small screens.
+-   **Dynamic Limits**: User-selectable page sizing (10/20/50 items).
+-   **Mobile Responsive**: Adaptive layout that works beautifully on small screens.
 -   **Optimized Performance**:
     -   Requests cancelled automatically if stale.
     -   Images use `loading="lazy"`.
