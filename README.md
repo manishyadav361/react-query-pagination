@@ -1,5 +1,12 @@
 # React Pagination Assignment
 
+## 🚀 Live Demo
+
+**[View Live Application →](https://react-query-pagination-jade.vercel.app/)**
+
+![Application Screenshot](./public/screenshot.png)
+
+
 A highly performant, scalable Data Grid implementation using **React Query** and **TanStack Table**.
 
 ## 🚀 Features
